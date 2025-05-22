@@ -9,7 +9,7 @@ It showcases my projects, skills, resume, and contact information in a responsiv
 
 ## 🚀 Live Demo
 
-👉 [Click here to view live site](https://Riya-Singh2.github.io/portfolio/)
+👉 [Click here to view live site]( https://riya-singh2.github.io/Portfolio/)
 
 ## 📁 Folder Structure
 
