@@ -5,7 +5,7 @@ It showcases my projects, skills, resume, and contact information in a responsiv
 
 ## 📸 Preview
 
-![Website Preview](preview.png)
+![Website Preview](pri.png)
 
 ## 🚀 Live Demo
 
