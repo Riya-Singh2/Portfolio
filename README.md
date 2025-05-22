@@ -5,7 +5,7 @@ It showcases my projects, skills, resume, and contact information in a responsiv
 
 ## 📸 Preview
 
-![Website Preview](pri.png)
+![Website Preview](Pri.png)
 
 ## 🚀 Live Demo
 
@@ -36,7 +36,7 @@ It showcases my projects, skills, resume, and contact information in a responsiv
 ## 🧑‍💻 Author
 
 **Riya Singh**  
-📫 [your-email@example.com](2riya.6j@gmail.com)  
+📫 [2riya.6j@gmail.com](2riya.6j@gmail.com)  
 
 🔗 [GitHub](https://github.com/Riya-Singh2)
 
